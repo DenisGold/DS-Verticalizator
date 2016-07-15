@@ -99,9 +99,6 @@
 				var parentHeight = self.parent().dsSizer('height');
 				if(settings.parent && self.parents(settings.parent).length)
 					parentHeight = self.parents(settings.parent).first().dsSizer('height');
-					
-				console.log(self.dsSizer('height'));
-				console.log(self.parent().dsSizer('height'));
 				
 				var centered = (parentHeight / 2) - (self.dsSizer('height') / 2);
 				var centered_with_opts = centered + parseInt(settings.vertical_offset)
