@@ -104,6 +104,7 @@
 				var centered_with_opts = centered + parseInt(settings.vertical_offset)
 				
 				self.css(settings.style, centered_with_opts);
+				self.css('position', 'relative');
 				
 				if (settings.complete !== undefined)
 					settings.complete();
