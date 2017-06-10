@@ -1,7 +1,7 @@
 /*
-	* dsSizer 1.1
+	* dsSizer 1.2
 	*
-	* Copyright 2016, Denis Stoliarchuk
+	* Copyright 2017, Denis Stoliarchuk
 	* Licensed under the MIT License (LICENSE.txt).
 	*
 	* Date: Fri Jul 15 21:34:00 2017
