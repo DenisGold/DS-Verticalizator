@@ -76,10 +76,10 @@
 /*
 	* jquery.dsVerticalizator.js 1.0
 	*
-	* Copyright 2016, Denis Stoliarchuk
+	* Copyright 2017, Denis Stoliarchuk
 	* Licensed under the MIT License (LICENSE.txt).
 	*
-	* Date: Fri Jul 15 21:34:00 2016
+	* Date: Fri Jul 15 21:34:00 2017
 */
 
 	$.fn.dsVerticalizator = function(options) {
